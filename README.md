@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Touseef Haider 
-- 👀 I’m interested in Data Cleansing and Visualisation
-- 🌱 I’m currently learning Data science and AI
+- 👀 I’m ML engineer who loves to manipulate data.
+- 🌱 I’m currently working as Data scientist
 - 📫 How to reach me email syedshah30654@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm really good at basketball and table tennis 
